@@ -47,6 +47,7 @@ body{
 .child{
     width: 120px;
     height: 120px;
+    border: 2px solid white;
     background-color: #806800;
 }
 .Row3_child3{
